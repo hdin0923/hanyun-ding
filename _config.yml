@@ -21,7 +21,7 @@ repository               : "hdin0923.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilee.png"
+  avatar           : "profile.png"
   name             : "Hanyun Ding"
   pronouns         : #"she/her"
   bio              : "Miss Hanyun Ding is a PhD candidate in Finance at USYD. She received her Bachelor of Commerce Honours degree (with First Class) in Finance from USYD. Her research interest is in finance and banking. Her current research is focused on international finance, the application of machine learning in financial risk detection, and the role of banking regulations. "
