@@ -14,14 +14,14 @@ name                     : &name "Hanyun Ding"
 description              : &description "Miss Hanyun Ding is a PhD candidate in Finance at USYD. She received her Bachelor of Commerce Honours degree (with First Class) in Finance from USYD. Her research interest is in finance and banking. Her current research is focused on international finance, the application of machine learning in financial risk detection, and the role of banking regulations. "
 url                      : https://hanyun-ding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hdin0923hanyun-ding.github.io"
+repository               : "hdin0923/hanyun-ding.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "my-photo.jpg"
   name             : "Hanyun Ding"
   pronouns         : # example: "she/her"
   bio              : "Miss Hanyun Ding is a PhD candidate in Finance at USYD. She received her Bachelor of Commerce Honours degree (with First Class) in Finance from USYD. Her research interest is in finance and banking. Her current research is focused on international finance, the application of machine learning in financial risk detection, and the role of banking regulations. "
