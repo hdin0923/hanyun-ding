@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hanyun Ding"
+title                    : "Hanyun Ding's homepage"
 title_separator          : "-"
 name                     : &name "Hanyun Ding"
 description              : &description "Ph.D. Candidate at USYD"
@@ -21,34 +21,34 @@ repository               : "hdin0923.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/my-photo.jpg"
+  avatar           : "./images/my-photo.jpg"
   name             : "Hanyun Ding"
-  pronouns         : # example: "she/her"
+  pronouns         : "she/her"
   bio              : "Miss Hanyun Ding is a PhD candidate in Finance at USYD. She received her Bachelor of Commerce Honours degree (with First Class) in Finance from USYD. Her research interest is in finance and banking. Her current research is focused on international finance, the application of machine learning in financial risk detection, and the role of banking regulations. "
   location         : "Australia"
-  employer         : "The University of Sydney, Australia"
+  employer         : "[The University of Sydney](https://www.sydney.edu.au/), Australia"
   uri              : # URL
-  email            : "none@example.org"
+  email            : "hanyun.ding@usyd.edu.au"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "hdin0923"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
